@@ -1,4 +1,4 @@
-# AI-Powered Health Advisor 🧠💉
+# AI-Powered Health Advisor 🧠
 
 This project is an **AI Health Agent** powered by **Groq’s LLaMA3** model and **CrewAI** that provides real-time blood glucose analysis and personalized health recommendations.
 
@@ -13,18 +13,18 @@ This project is an **AI Health Agent** powered by **Groq’s LLaMA3** model and 
 
 ---
 
-## 🚀 Features
+# Features
 
-✅ Fetches real-time **blood glucose data**  
-✅ Uses LLM (LLaMA3) to analyze health data  
-✅ Provides **personalized advice** based on analysis  
-✅ Modular AI agents:  
+ Fetches real-time **blood glucose data**  
+ Uses LLM (LLaMA3) to analyze health data  
+ Provides **personalized advice** based on analysis  
+ Modular AI agents:  
 - `Data Fetcher Agent`  
 - `Health Analyst Agent`
 
 ---
 
-## 🧪 Installation
+##  Installation
 
 1. Clone the repo:
    ```bash
