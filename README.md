@@ -1,10 +1,10 @@
-# AI-Powered Health Advisor 🧠
+# AI-Powered Health Advisor 
 
 This project is an **AI Health Agent** powered by **Groq’s LLaMA3** model and **CrewAI** that provides real-time blood glucose analysis and personalized health recommendations.
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Python**
 - **Langchain-Groq** (LLaMA3)
